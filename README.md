@@ -1,4 +1,4 @@
-# ImpossibleBosses
+# Impossible Bosses
 
 ## 프로젝트 소개
 
