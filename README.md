@@ -18,6 +18,6 @@ Unity 엔진을 기반으로 제작된 MO 액션게임으로, 워크래프트3�
 
 ## 영상 및 기술서
 
-- 동영상: 링크
+- 동영상: https://www.youtube.com/watch?v=q8mk9v6ZeAs&feature=youtu.be
 
-- 기술서: pdf
+- 기술서: https://drive.google.com/file/d/1Ec6tPP_i3CWwa4di4KILVtrnDgI3NS5o/view?usp=sharing
